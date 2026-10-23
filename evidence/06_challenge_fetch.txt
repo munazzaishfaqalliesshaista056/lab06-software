@@ -1,0 +1,39 @@
+                             ....
+              .',:clooo:  .:looooo:.
+           .;looooooooc  .oooooooooo'
+        .;looooool:,''.  :ooooooooooc
+       ;looool;.         'oooooooooo,
+      ;clool'             .cooooooc.  ,,
+         ...                ......  .:oo,
+  .;clol:,.                        .loooo'
+ :ooooooooo,                        'ooool
+'ooooooooooo.                        loooo.
+'ooooooooool                         coooo.
+ ,loooooooc.                        .loooo.
+   .,;;;'.                          ;ooooc
+       ...                         ,ooool.
+    .cooooc.              ..',,'.  .cooo.
+      ;ooooo:.           ;oooooooc.  :l.
+       .coooooc,..      coooooooooo.
+         .:ooooooolc:. .ooooooooooo'
+           .':loooooo;  ,oooooooooc
+               ..';::c'  .;loooo:'[1G[19A[47Cmunazzaishfaqalliesshaista056@ubuntu
+[47C------------------------------------
+[47COS: Ubuntu 26.04.1 LTS (Resolute Raccoon) x86_64
+[47CHost: VMware Virtual Platform
+[47CKernel: Linux 7.0.0-38-generic
+[47CUptime: 1 hour, 20 mins
+[47CPackages: 732 (dpkg), 4 (snap)
+[47CShell: bash 5.3.9
+[47CDisplay (Virtual-1): 1280x800, 60 Hz
+[47CTerminal: sshd
+[47CCPU: 2 x Intel(R) Core(TM) i7-7500U (2) @ 2.90 GHz
+[47CGPU: VMware SVGA II Adapter
+[47CMemory: 691.89 MiB / 1.56 GiB (43%)
+[47CSwap: 4.48 MiB / 2.00 GiB (0%)
+[47CDisk (/): 7.03 GiB / 13.67 GiB (51%) - ext4
+[47CLocal IP (ens33): 192.168.114.130/24
+[47CLocale: en_US.UTF-8
+[47C
+[47C[40m   [41m   [42m   [43m   [44m   [45m   [46m   [47m   [m
+[47C[5m[100m   [101m   [102m   [103m   [104m   [105m   [106m   [107m   [m
